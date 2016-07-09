@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Independent web dev and 3DS homebrew developer. Good with HTML5, PHP7 and JavaScript.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thejsa.github.io" # the base hostname & protocol for your site
-twitter_username: kgbsquirrel
+# twitter_username: kgbsquirrel
 github_username:  thejsa
 
 # Build settings
